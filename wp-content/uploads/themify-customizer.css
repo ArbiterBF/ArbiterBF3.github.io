@@ -1,0 +1,13 @@
+body {font-weight: normal;}
+textarea, input[type=text], input[type=password], input[type=search], input[type=email], input[type=url], input[type=number], input[type=tel], input[type=date], input[type=datetime], input[type=datetime-local], input[type=month], input[type=time], input[type=week] {background: none;background-color: #fff;color: #000;font-family: "Questrial";font-weight: normal;text-align: center;}
+textarea:focus, input[type=text]:focus, input[type=password]:focus, input[type=search]:focus, input[type=email]:focus, input[type=url]:focus, input[type=number]:focus, input[type=tel]:focus, input[type=date]:focus, input[type=datetime]:focus, input[type=datetime-local]:focus, input[type=month]:focus, input[type=time]:focus, input[type=week]:focus {background: none;background-color: #fff;color: #000;}
+.header-classic #headerwrap, #headerwrap {background: none;background-color: #222;}
+#header {color: #fff;}
+#headerwrap a {color: #fff;}
+#headerwrap a:hover {color: #fff;}
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {background: none;background-color: rgba(36,36,36,.8);}
+#headerwrap.fixed-header #header {color: #fff;}
+body[class*="themify"] #site-logo a {font-family: "Questrial";font-weight: normal;}
+#site-logo {position: relative;}
+#main-nav a {font-family: "Questrial";font-weight: normal;}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {color: #fff;}
